@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+@import 'weui/weui.wxss';
+.page {
+  background-color: #f6f0e3;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+.wxParse-img {
+  display: block !important;
+}
+.space {
+  height:20rpx;
+  background-color: #F2f2f2;
+=======
+@import 'weui/weui.wxss';
+.page {
+  background-color: #f6f0e3;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+.wxParse-img {
+  display: block !important;
+}
+.space {
+  height:20rpx;
+  background-color: #F2f2f2;
+>>>>>>> 0b1218d0fb96d653179d33f94bf75a9026baa283
+}
